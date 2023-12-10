@@ -1,1 +1,5 @@
-# react-tailwind-shop
+Demo shop
+
+## React
+## Tailwind
+## Fakestore api
